@@ -2,3 +2,5 @@
 /.vscode
 /main.py
 /.ipynb_checkpoints
+/data
+.DS_Store
